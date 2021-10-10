@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/uanl-pi-page/static/css/main.d1f9e17f.chunk.css",
+    "main.js": "/uanl-pi-page/static/js/main.5038e4e5.chunk.js",
+    "main.js.map": "/uanl-pi-page/static/js/main.5038e4e5.chunk.js.map",
+    "runtime-main.js": "/uanl-pi-page/static/js/runtime-main.4f320d0b.js",
+    "runtime-main.js.map": "/uanl-pi-page/static/js/runtime-main.4f320d0b.js.map",
+    "static/js/2.e2abf159.chunk.js": "/uanl-pi-page/static/js/2.e2abf159.chunk.js",
+    "static/js/2.e2abf159.chunk.js.map": "/uanl-pi-page/static/js/2.e2abf159.chunk.js.map",
+    "static/js/3.f2ececf5.chunk.js": "/uanl-pi-page/static/js/3.f2ececf5.chunk.js",
+    "static/js/3.f2ececf5.chunk.js.map": "/uanl-pi-page/static/js/3.f2ececf5.chunk.js.map",
+    "index.html": "/uanl-pi-page/index.html",
+    "static/css/main.d1f9e17f.chunk.css.map": "/uanl-pi-page/static/css/main.d1f9e17f.chunk.css.map",
+    "static/js/2.e2abf159.chunk.js.LICENSE.txt": "/uanl-pi-page/static/js/2.e2abf159.chunk.js.LICENSE.txt",
+    "static/media/Captura.86ca200d.PNG": "/uanl-pi-page/static/media/Captura.86ca200d.PNG",
+    "static/media/Manual de Usuario.789012f1.pdf": "/uanl-pi-page/static/media/Manual de Usuario.789012f1.pdf",
+    "static/media/logo.6ce24c58.svg": "/uanl-pi-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f320d0b.js",
+    "static/js/2.e2abf159.chunk.js",
+    "static/css/main.d1f9e17f.chunk.css",
+    "static/js/main.5038e4e5.chunk.js"
+  ]
+}
