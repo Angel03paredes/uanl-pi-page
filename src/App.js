@@ -11,7 +11,7 @@ function App() {
       <Nav></Nav>
         <div className="content">
         <Switch >
-          <Route exact path="/" component={Home} ></Route>
+          <Route  exact path="/" component={Home} ></Route>
           <Route path="/manual" component={Manual}></Route>
         </Switch>
         </div>
