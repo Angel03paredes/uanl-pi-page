@@ -1,38 +1,88 @@
-.App {
-  text-align: center;
+@import url(https://allfont.es/allfont.css?fonts=matura-mt-script-capitals);
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(41, 43, 43);
+    padding: 0px 40px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ulNav{
+    display: flex;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.ulNav>li{
+    list-style: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.item-nav:hover{
+    color: rgb(228, 225, 220);
+    text-decoration:underline;
 }
 
-.App-link {
-  color: #61dafb;
+.item-nav{
+    color: rgb(228, 225, 220);
+    text-decoration: none;
+    margin: 0px 10px;
+    font-size: 1rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.brand{
+    color: rgb(228, 225, 220);
+    text-decoration: none;
+    font-family: 'Matura MT Script Capitals', arial;
+    font-size: 1.5rem;
+}
+
+.content{
+    padding: 20px 50px;
+    box-shadow: 1px 67px 38px -63px rgba(0,0,0,0.6) inset;
+-webkit-box-shadow: 1px 67px 38px -63px rgba(0,0,0,0.6) inset;
+-moz-box-shadow: 1px 67px 38px -63px rgba(0,0,0,0.6) inset;
+}
+
+.embed{
+    width: 100%;
+    height: 100vh;
+}
+
+.slogan{
+    display: flex;
+    justify-content: center;
+    color: rgb(95, 99, 95);
+    font-size: 4rem;
+}
+
+.container-image{
+    display: flex;
+    margin-top: 100px;
+    justify-content: stretch;
+    width: 100%;
+}
+
+.image{
+    max-width: 50%;
+}
+
+.btn{
+    padding: 24px 48px;
+    background-color: rgb(41, 43, 43);
+    color:rgb(216, 226, 216);
+    border-radius:12px ;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(216, 226, 216);
+    color:rgb(41, 43, 43);
+    border:1px solid rgb(41, 43, 43);
+}
+
+.cont_btn{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
