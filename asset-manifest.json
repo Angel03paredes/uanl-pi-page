@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/uanl-pi-page/static/css/main.d1f9e17f.chunk.css",
-    "main.js": "/uanl-pi-page/static/js/main.9104c8c3.chunk.js",
-    "main.js.map": "/uanl-pi-page/static/js/main.9104c8c3.chunk.js.map",
+    "main.js": "/uanl-pi-page/static/js/main.e74f594d.chunk.js",
+    "main.js.map": "/uanl-pi-page/static/js/main.e74f594d.chunk.js.map",
     "runtime-main.js": "/uanl-pi-page/static/js/runtime-main.4f320d0b.js",
     "runtime-main.js.map": "/uanl-pi-page/static/js/runtime-main.4f320d0b.js.map",
     "static/js/2.3b14643d.chunk.js": "/uanl-pi-page/static/js/2.3b14643d.chunk.js",
@@ -14,12 +14,13 @@
     "static/js/2.3b14643d.chunk.js.LICENSE.txt": "/uanl-pi-page/static/js/2.3b14643d.chunk.js.LICENSE.txt",
     "static/media/Captura.86ca200d.PNG": "/uanl-pi-page/static/media/Captura.86ca200d.PNG",
     "static/media/Manual de Usuario.789012f1.pdf": "/uanl-pi-page/static/media/Manual de Usuario.789012f1.pdf",
+    "static/media/descargar.5b6e66e4.zip": "/uanl-pi-page/static/media/descargar.5b6e66e4.zip",
     "static/media/logo.6ce24c58.svg": "/uanl-pi-page/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4f320d0b.js",
     "static/js/2.3b14643d.chunk.js",
     "static/css/main.d1f9e17f.chunk.css",
-    "static/js/main.9104c8c3.chunk.js"
+    "static/js/main.e74f594d.chunk.js"
   ]
 }
